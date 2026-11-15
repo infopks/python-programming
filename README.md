@@ -22,15 +22,24 @@ think-python-chapter-1-starter/
     ├── README.md
     └── chapter-01/
         ├── notes.md
+        ├── Think_Python_Chapter_1_Theory_Summary.pdf
         ├── quiz.md
         └── exercises.py
 ```
+
+## Files
+
+### Repository files
+
+- [`README.md`](README.md) — repository overview and learning progress
+- [`think-python-chapter-1-starter/python-programming/README.md`](think-python-chapter-1-starter/python-programming/README.md) — Chapter 1 project overview and instructions
 
 ### Chapter 1 files
 
 - [`notes.md`](think-python-chapter-1-starter/python-programming/chapter-01/notes.md) — essential concepts and space for personal explanations
 - [`quiz.md`](think-python-chapter-1-starter/python-programming/chapter-01/quiz.md) — six questions covering the chapter's main ideas
 - [`exercises.py`](think-python-chapter-1-starter/python-programming/chapter-01/exercises.py) — beginner exercises covering arithmetic, unit conversion, types, strings, and operators
+- [`Think_Python_Chapter_1_Theory_Summary.pdf`](think-python-chapter-1-starter/python-programming/chapter-01/Think_Python_Chapter_1_Theory_Summary.pdf) — Chapter 1 theory summary
 
 The exercises are starter exercises and currently contain `TODO` markers to complete.
 
